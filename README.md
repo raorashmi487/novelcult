@@ -1,2 +1,1 @@
-# novelcult
-Just a struggling computer science student.
+# CapGen: Caption generator for images
